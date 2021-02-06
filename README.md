@@ -1,6 +1,7 @@
 # Files for JavaScript 1 Module Asssignment 3
 
 CSS Loader is from [https://loading.io/css/](https://loading.io/css/).
+Icons are from  [https://fontawesome.com/](https://fontawesome.com/).
 
 ## Contents of [question-1.js](https://github.com/kasperbb/kasper-bo-bjorno-js1-ma3/blob/main/js/question-1.js)
 ```javascript
